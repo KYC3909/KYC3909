@@ -30,6 +30,18 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/chauhankrunal391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chauhankrunal391" height="30" width="40" /></a>
 </p>
 
+
+<br>
+<h3 align="left">Ask me about:</h3>
+## 💬 Ask me about
+- Mobile App Development (iOS | Swift | SwiftUI | Flutter | React-Native)
+- App Architectures
+- Clean Code & SOLID Principles
+- Design Patterns
+- ERP Systems, Warehouse & Inventory Management Systems
+- E-commerce & POS Systems, Enterprise systems
+- Social, News, Dating, FinTech, EdTech systems
+
 <br>
 <h3 align="left">Languages and Tools I love and use:</h3>
 <p align="left">
