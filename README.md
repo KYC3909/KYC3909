@@ -33,14 +33,13 @@ Here are some ideas to get you started:
 
 <br>
 <h3 align="left">Ask me about:</h3>
-## 💬 Ask me about
-- Mobile App Development (iOS | Swift | SwiftUI | Flutter | React-Native)
-- App Architectures
-- Clean Code & SOLID Principles
-- Design Patterns
-- ERP Systems, Warehouse & Inventory Management Systems
-- E-commerce & POS Systems, Enterprise systems
-- Social, News, Dating, FinTech, EdTech systems
+<li> Mobile App Development (iOS | Swift | SwiftUI | Flutter | React-Native) </li>
+<li> App Architectures </li>
+<li> Clean Code & SOLID Principles </li>
+<li> Design Patterns </li>
+<li> ERP Systems, Warehouse & Inventory Management Systems </li>
+<li> E-commerce & POS Systems, Enterprise systems </li>
+<li> Social, News, Dating, FinTech, EdTech systems </li>
 
 <br>
 <h3 align="left">Languages and Tools I love and use:</h3>
