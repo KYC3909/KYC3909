@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm Krunal Chauhan</h1>
-<h3 align="left">Passionate for iOS | Swift | SwiftUI | Objective-C | Flutter | React Native developer from India</h3>
+<h3 align="left">Passionate for iOS | Swift | SwiftUI | Objective-C | Flutter | React Native developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KYC3909?tab=repositories](https://github.com/KYC3909?tab=repositories)
 
