@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 - 💬 Passionate and Results-driven about **iOS | Swift | SwiftUI | Objective-C | Flutter | React Native**
 
-- 📫 How to reach me **chauhankrunal3909@gmail.com** **+91 97243 01762** **+1 647 491 0109**
+- 📫 How to reach me **chauhankrunal3909@gmail.com**
+
+- 📫 Contact me **India: +91 97243 01762** | **Canada: +1 647 491 0109**
 
 <br>
 <h3 align="left">Connect with me:</h3>
